@@ -26,8 +26,8 @@ header{
 }
 
 #logo{
-  width: 250px;
-  margin: auto;
+  width: 50vw;
+  max-width: 400px;
 }
 
 main, aside{
